@@ -44,6 +44,10 @@
     * Django：https://github.com/zrf-rocket/PythonFramework/tree/master/django_framework
     * Flask：https://github.com/zrf-rocket/PythonFramework/tree/master/flask_framework
 
+* [Python 爬虫框架和技术](https://github.com/zrf-rocket/PracticeSpider)
+    * GitHub：https://github.com/zrf-rocket/PracticeSpider
+    * Gitee：https://gitee.com/SteveRocket/practice_spider
+
 * [Rust代码示例](https://github.com/zrf-rocket/PracticeRust)
     * GitHub：https://github.com/zrf-rocket/PracticeRust
     * Gitee：https://gitee.com/SteveRocket/practice_rust
@@ -108,24 +112,78 @@
 
 # 自动化渗透测试平台（Penetration Test）
 
-## 渗透测试类型
-
-### 内网安全渗透
-
-### 后渗透与持续渗透
-
 ## 渗透测试流程
 
 ### 信息收集
 
 ### 漏洞扫描
 
-* 代码漏洞
+* 代码审计（漏洞）
+    * java
+    * python
+    * php
+        * 命令执行
+        * 文件包含
+        * 逻辑漏洞
+        * 变量覆盖
+        * 文件操作
+        * SQL注入
+        * 反序列化
+        * 代码执行
+          * exec
+          * eval
+          * 
+    * golang
+    * node.js
 * 系统漏洞
 * Web应用漏洞
+    * 文件操作
+    * CSRF
+    * XSS
+    * SQL注入
+    * 代码执行/命令执行
+    * SSRF
+    * XXE
+    * 无恶意特征的漏洞
+    * 编辑器漏洞
 * 服务组件漏洞
+    * FTP 21
+    * SSH 22
+    * telnet 23
+    * snmp 389
+    * ldap 389
+    * ssl 443
+    * smb 445
+    * rsync 875
+    * mssql 1433
+    * oracle 1521
+    * zebra
+    * squid
+    * mysql 3306
+    * kangle
+    * rdp 3389
+    * rundeck
+    * glassfish
+    * postgresql 5432
+    * rabbitmq 5672/15672/4369/25672
+    * vnc 5900
+    * couchdb 5984
+    * varnish 6082
+    * redis 6379
+    * elasticsearch 9200 9300
+    * fcgi 9000
+    * memcache 1121
+    * MongoDB 27017/27018
+    * sap 50000
+    * hadoop 50070/50030
 * 数据库漏洞
 * 中间件漏洞
+
+## 渗透测试类型
+
+### 内网安全渗透
+
+### 后渗透与持续渗透
 
 ## 开源PT系统与工具
 
