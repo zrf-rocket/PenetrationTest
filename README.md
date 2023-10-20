@@ -41,8 +41,8 @@
 * [Python Web框架的示例代码](https://github.com/zrf-rocket/PythonFramework)
     * GitHub：https://github.com/zrf-rocket/PythonFramework
     * Gitee：https://gitee.com/SteveRocket/python_framework
-    * Django：
-    * Flask：
+    * Django：https://github.com/zrf-rocket/PythonFramework/tree/master/django_framework
+    * Flask：https://github.com/zrf-rocket/PythonFramework/tree/master/flask_framework
 
 * [Rust代码示例](https://github.com/zrf-rocket/PracticeRust)
     * GitHub：https://github.com/zrf-rocket/PracticeRust
@@ -94,11 +94,11 @@
     * GitHub：https://github.com/zrf-rocket/DevSecOps-SDLC
     * Gitee：https://gitee.com/SteveRocket/dev-sec-ops-sdlc
 
-* [Penetration Test-自动化渗透测试平台（PT）]()
+* [Penetration Test-自动化渗透测试平台（PT）](https://github.com/zrf-rocket/PenetrationTest)
     * GitHub：https://github.com/zrf-rocket/PenetrationTest
     * Gitee：https://gitee.com/SteveRocket/penetration_test
 
-* [cicd-持续集成持续部署系统（CI/CD）]()
+* [cicd-持续集成持续部署系统（CI/CD）](https://github.com/zrf-rocket/CICD)
     * GitHub：https://github.com/zrf-rocket/CICD
     * Gitee：https://gitee.com/SteveRocket/cicd
 
